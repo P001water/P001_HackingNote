@@ -1,0 +1,1 @@
+-1!=navigator.userAgent.indexOf("Firefox")&&browser.devtools.panels.create("P001Notes","get_started16.png","index.html"),-1!=navigator.userAgent.indexOf("Chrome")&&chrome.devtools.panels.create("P001Notes",null,"index.html",null);
